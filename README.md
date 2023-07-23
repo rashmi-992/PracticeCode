@@ -26,7 +26,7 @@ used for those function which does not return a value.<br />
 • **Wide Character**: Wide character data type is also a character data type but this data type has a size 
 greater than the normal 8-bit datatype. Represented by **wchar_t**. It is generally **2 or 4 bytes** long.
 <br />
-[Refer data_type.cpp on GitHub](https://github.com/username/data_type.cpp).
+[Check out data_type.cpp](https://github.com/rashmi-992/PracticeCode/blob/main/data_type.cpp).  
 
 
 **Operator sizeof in C++**<br />
@@ -36,7 +36,7 @@ constants in bytes at compile time. It can also determine the size of classes, s
 sizeof (data type)
 or
 sizeof (expression)** <br />
-Refer above program:**size_of_variable.cpp**  
+[Check out size_of_variable.cpp](https://github.com/rashmi-992/PracticeCode/blob/main/size_of_variable.cpp).  
 
 **Manipulating Default Format**<br />
 **setprecision(n)** - Changes the default precision.Default precision is 6.<br />
@@ -44,4 +44,4 @@ In Fixed floating point no power (or e) uses. Ex - 10.5, 122.5.<br />
 In Scientific floating point we will use e. Ex - 1.2e + 04, 1.45e +06.<br />
 •	fixed: It uses decimal notation for floating-point values.<br />
 •	scientific: It uses scientific floating-point notation.<br />
-Refer above program **set_precision.cpp**
+[Check out set_precision.cpp](https://github.com/rashmi-992/PracticeCode/blob/main/set_precision.cpp).  
